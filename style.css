@@ -58,3 +58,36 @@ nav ul li{
     border:none;
     background-color: white;
 }
+.ash-bg{
+    background-color: #cecece;
+}
+#Subscribe{
+    height: 300px;
+    border: none;
+    border-radius:0%;
+    margin-top: 100px;
+    
+}
+#Subscribe h4{
+    color:gray;
+    padding-bottom:10px;
+}
+input{
+    border-radius:  8px 0 0 8px;
+    border: none;
+    width: 220px;
+    height: 48px;
+}
+.copyright{
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.s-buttons{
+    padding: 10px 25px;
+    border: none;
+    border-radius: 0 8px 8px 0;
+    background-image:linear-gradient(to bottom, #bbbbbb 0%,  #585858 100%);
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
