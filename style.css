@@ -77,7 +77,13 @@ nav ul li{
 
 footer{
     margin-top: 50px;
-    padding: 50px;
+    
+}
+.v-line{
+    margin: auto;
+    width: 2px;
+    height: 200px;
+    color: #303030;
 }
 .copyright{
     margin-top: 100px;
