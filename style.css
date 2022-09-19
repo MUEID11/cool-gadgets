@@ -74,11 +74,10 @@ nav ul li{
     color:gray;
     padding-bottom:10px;
 }
-input{
-    border-radius:  8px 0 0 8px;
-    border: none;
-    width: 220px;
-    height: 48px;
+
+footer{
+    margin-top: 50px;
+    padding: 50px;
 }
 .copyright{
     margin-top: 100px;
