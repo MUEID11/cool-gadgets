@@ -1,0 +1,60 @@
+.logo{
+    width: 200px;
+    margin-top: 40px;
+    
+}
+nav ul li{
+    font-size: 18px;
+    font-weight: 600;
+}
+.price{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.catagories{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    
+}
+.hr-line{
+    margin: auto;
+    margin-bottom: 50px;
+    width: 200px;
+    height: 6px;
+    background-image: linear-gradient(to right, rgb(255, 213, 0) 0%, orange 100%);
+    border-radius: 3px;
+}
+.cate1, .cate2, .cate3{
+    padding: 10px 10px;
+    border-radius: 100px;   
+}
+.cate1{
+   border: 5px solid #303030;
+}
+.cate2{
+    border: 5px solid #303030;
+}
+.cate3{
+    border: 5px solid #303030;
+}
+.categories img{
+    width: 150px;
+}
+.smartphone{
+    margin-top: 100px;
+    
+}
+.laptops{
+    margin-top: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border:none;
+    background-color: white;
+}
