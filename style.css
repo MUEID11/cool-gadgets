@@ -52,9 +52,11 @@ nav ul li{
 }
 .card{
     border: none;
+    border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
 }
 .card-footer{
+    border-radius: 10px;
     border:none;
     background-color: white;
 }
